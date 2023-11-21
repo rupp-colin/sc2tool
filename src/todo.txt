@@ -1,0 +1,9 @@
+add timer incrementor to elimate "real time" aspect
+
+set delay for starting to collect resources
+
+create a "gamestate" temp storage base on ticks
+    update in TimeKeeper.js
+    recall states based on ticks
+    clear on reset
+
